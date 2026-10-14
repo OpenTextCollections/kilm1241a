@@ -5,17 +5,17 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Christian Döhler (ed.), Speaking the map: Komnzo Texts (Open Text Collections 1). Berlin: Language Science Press. https://zenodo.org/records/14214653",
+    "dc:bibliographicCitation": "Gerstner-Link, Claudia. 2026. Clans, spirits, land and food: Kilmeri texts. (Open Text Collections 7). Berlin: Language Science Press. DOI: 10.5281/zenodo.17702074",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TextCorpus",
-    "dc:description": "This collection of fourteen texts in Komnzo offers an insight into the language and culture of the Farem people, their storytelling tradition, oral history, mythology and everyday life. It contains stories from nine narrators, which were transcribed, translated and analysed by the researcher with the help of the Komnzo language committee. All texts are presented in a parallel text version arranged in columns (Komnzo/English) and in an interlinearised and glossed version. The book focuses thematically on landscape, place names and locality. It includes a description and analysis of the way Komnzo speakers conceptualise this semantic domain.\nThis publication is complemented by a dataset available from https://doi.org/10.5281/zenodo.14267762",
-    "dc:identifier": "wara1294a",
+    "dc:description": "This collection of Kilmeri texts provides insight into the language and culture of the Kilmeri people in northern Papua New Guinea. Six narrators tell stories about their clans, their land, and its food supply during the ‘golden age’ as well as today. Life in the bush is never easy, as evil spirits often hinder people's efforts to find food. Readers will be introduced to a variety of genres, including legendary deeds of Kilmeri heroes, old village life, contemporary village life, and other oral traditions. All texts are presented in a parallel text version (Kilmeri-English) and in an interlinearised version. Each text is preceded by an introduction that describes the anthropological background and context of the story.",
+    "dc:identifier": "kilm1241a",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "Speaking the map: Komnzo texts ",
-    "dcat:accessURL": "https://doi.org/10.5281/zenodo.14267762",
+    "dc:title": "Clans, spirits, land and food: Kilmeri texts",
+    "dcat:accessURL": "https://doi.org/10.5281/zenodo.20122021",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/OpenTextCollections/wara1294a",
+            "rdf:about": "https://github.com/OpenTextCollections/kilm1241a",
             "rdf:type": "prov:Entity",
             "dc:created": "v1.1",
             "dc:title": "Repository"
@@ -31,13 +31,13 @@
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "wara1294a",
+    "rdf:ID": "kilm1241a",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
             "dc:description": "Annotated clauses of the texts in the collection.",
-            "dc:extent": 1970,
+            "dc:extent": 1147,
             "tableSchema": {
                 "columns": [
                     {
@@ -163,7 +163,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
             "dc:description": "A collection of texts from one language, with shared provenance.",
-            "dc:extent": 8,
+            "dc:extent": 72,
             "tableSchema": {
                 "columns": [
                     {
@@ -241,7 +241,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
             "dc:description": "Media resources for the texts.",
-            "dc:extent": 3,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
